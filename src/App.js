@@ -20,6 +20,7 @@ function App() {
       </header>
       <h2>Update lan 2</h2>
       <h2>Update lan 3</h2>
+      <h2> Sua lần thứ 1</h2>
     </div>
   );
 }
