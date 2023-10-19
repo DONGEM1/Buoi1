@@ -19,6 +19,7 @@ function App() {
         </a>
       </header>
       <h2>Update lan 2</h2>
+      <h2>Update lan 3</h2>
     </div>
   );
 }
