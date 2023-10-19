@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h2>Update lan 2</h2>
     </div>
   );
 }
